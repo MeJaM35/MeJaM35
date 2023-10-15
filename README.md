@@ -71,9 +71,9 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/MeJaM35/MeJaM35/output/snake.svg" alt="Snake animation" />
+
+![snake gif](https://github.com/MeJaM35/MeJaM35/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
@@ -82,3 +82,4 @@
 </div>
 
 ###
+
