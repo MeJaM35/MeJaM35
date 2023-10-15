@@ -73,7 +73,7 @@
 
 
 
-###![snake gif](https://github.com/MeJaM35/MeJaM35/blob/output/github-contribution-grid-snake.gif)
+
 
 ###
 
