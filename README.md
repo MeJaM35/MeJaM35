@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=MeJaM35&theme=onedark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MeJaM35&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeJaM35&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![Meet's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MeJaM35)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MeJaM35&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
@@ -18,10 +19,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MeJaM35&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MeJaM35&icon=0&color=0)](https://visitcount.itsvg.in)
+[![wakatime](https://wakatime.com/badge/user/018d74e2-fe91-4cd1-af59-a5872e67865f.svg)](https://wakatime.com/@018d74e2-fe91-4cd1-af59-a5872e67865f)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
