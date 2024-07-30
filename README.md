@@ -13,8 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeJaM35&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 [![Meet's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MeJaM35)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MeJaM35&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MeJaM35&limit=5&theme=dark&combine_all_yearly_contributions=true)
