@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Pre Trained LLM's<br>🤝 I’m looking for help with Reccommendation Analysis<br>🌱 I’m currently learning Data Analytics<br>💬 Ask me about Web Development<br>
+🔭 I’m currently working on High Availability Web Sockets <br>🤝 I’m looking for help with Flutter Development <br>🌱 I’m currently learning Big Data Analytics<br>💬 Ask me about Web Development<br>
 
 
 ## 🌐 Socials:
