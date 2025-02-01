@@ -37,11 +37,6 @@ Feel free to reach out to me at **meetjamsutkar645@apsit.edu.in**.
 ### Design
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=MeJaM35&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MeJaM35&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeJaM35&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MeJaM35&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
