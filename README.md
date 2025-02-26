@@ -4,7 +4,7 @@ Hi, I'm **Meet Jamsutkar (MJ)**, a Freelance Developer and a final year student 
 
 - 🔭 Currently working on **Chain of thought based RAG architectures**.
 - 🤝 Looking to contribute to **Django** Open Source projects.
-- 📈 Always eager to learn and implement **Data Streaming Pipelines**.
+
 
 Feel free to reach out to me at **meetjamsutkar645@apsit.edu.in**.
 
