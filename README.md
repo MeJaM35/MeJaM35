@@ -1,6 +1,8 @@
 # Hi, I'm MJ 🦘
 
-I'm Meet Jamsutkar, but I prefer to be called MJ. I love programming, anime, and books.
+My Name is Meet Jamsutkar, but I prefer to be called MJ. I love programming, anime, and books.
+
+I'm a Open Source Developer at **Data Science Wizards**, India.
 
 > Jack of all trades, master of none, still better than a master of one.
 
