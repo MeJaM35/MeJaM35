@@ -28,9 +28,4 @@ I'm a Open Source Developer at **Data Science Wizards**, India.
 - **Machine Learning**: Plotly, Sci-kit-Learn
 ---
 
-## 📊 My Stats
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mejam35)
-
----
 Thanks for stopping by! 😊
