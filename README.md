@@ -18,7 +18,7 @@ My name is Meet Jamsutkar, but you can call me MJ. I’m a passionate Open Sourc
 
 - **[Athena-AI](https://github.com/mejam35/athena-ai)**: Everything a company would need from the branding and marketing side. This app is a one-stop branding and marketing solution.
 - **[DOIT](https://github.com/MeJaM35/DOIT)**: A smart project/task management tool that integrates seamlessly with GitHub. It simplifies organization and enhances productivity for developers and teams.
-- **[C^3: Code.Commit.Collab](https://github.com/Group2-BEDS)**: A collaborative code editor with repository-level context-based code generation, documentation generation, auto-commit scheduling, and more (repo coming soon).
+- **[C^3: Code.Commit.Collab](https://github.com/Group2-BE-DS)**: A collaborative code editor with repository-level context-based code generation, documentation generation, auto-commit scheduling, and more (repo coming soon).
 - **Manager**: A BPO manager that manages an agent's calls and performs QA (repo coming soon).
 
 
