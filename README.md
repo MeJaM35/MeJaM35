@@ -1,6 +1,6 @@
 # Hi there! I'm MJ 🦘
 
-My name is Meet Jamsutkar, but you can call me MJ. I’m a passionate Open Source Developer at **Data Science Wizards**, India. When I'm not coding, you'll find me immersed in anime or lost in the pages of a great book.
+My name is Meet Jamsutkar, but you can call me MJ. I’m a passionate MLOPs Engineer at **Data Science Wizards**, India. When I'm not coding, you'll find me immersed in anime or lost in the pages of a great book.
 
 > *"Jack of all trades, master of none, still better than a master of one."*
 
